@@ -1,6 +1,6 @@
 /*****************************************************************
 **                                                              **
-**                        Títol:                                **
+**                        Títol:xiulet durant 3 segons                                **
 **          Posar nom representatiu del programa                **
 **                                                              **
 ** NOM:Martin Herranz                          Data:21/05/2018  **
